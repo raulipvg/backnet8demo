@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rfmun\\Desktop\\Backend Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\BackendDemo.Server.csproj|c:\\users\\rfmun\\desktop\\backend demo\\angularapp4.server\\backenddemo.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\BackendDemo.Server.csproj|solutionrelative:angularapp4.server\\backenddemo.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\BackendDemo.Server.csproj|c:\\users\\rfmun\\desktop\\backend demo\\angularapp4.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\BackendDemo.Server.csproj|solutionrelative:angularapp4.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0659F3E5-31E8-4F47-B784-7B2D86C78498}|AngularApp4.Server\\BackendDemo.Server.csproj|c:\\users\\rfmun\\desktop\\backend demo\\angularapp4.server\\angularapp4.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\Backend Demo\\AngularApp4.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "AngularApp4.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\rfmun\\Desktop\\Backend Demo\\AngularApp4.Server\\appsettings.json",
+              "RelativeToolTip": "AngularApp4.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T17:06:01.145Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -43,18 +56,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BackendDemo.Server",
-              "DocumentMoniker": "C:\\Users\\rfmun\\Desktop\\Backend Demo\\AngularApp4.Server\\BackendDemo.Server.csproj",
-              "RelativeDocumentMoniker": "AngularApp4.Server\\BackendDemo.Server.csproj",
-              "ToolTip": "C:\\Users\\rfmun\\Desktop\\Backend Demo\\AngularApp4.Server\\BackendDemo.Server.csproj",
-              "RelativeToolTip": "AngularApp4.Server\\BackendDemo.Server.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-22T16:31:03.064Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
