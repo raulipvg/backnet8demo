@@ -1,0 +1,41 @@
+.vs/AngularApp4/FileContentIndex/*
+
+# .NET (ubicado en AngularApp4.Server)
+AngularApp4.Server/[Dd]ebug/
+AngularApp4.Server/[Dd]ebugPublic/
+AngularApp4.Server/[Rr]elease/
+AngularApp4.Server/[Rr]eleases/
+AngularApp4.Server/x64/
+AngularApp4.Server/x86/
+AngularApp4.Server/[Aa][Rr][Mm]/
+AngularApp4.Server/[Aa][Rr][Mm]64/
+AngularApp4.Server/bld/
+AngularApp4.Server/[Bb]in/
+AngularApp4.Server/[Oo]bj/
+AngularApp4.Server/[Ll]og/
+AngularApp4.Server/[Ll]ogs/
+AngularApp4.Server/[Ll]ogs/
+AngularApp4.Server/[Ll]ogs/
+AngularApp4.Server/[Ll]ogs/
+
+# Visual Studio
+AngularApp4.Server/.vscode/
+AngularApp4.Server/*.suo
+AngularApp4.Server/*.user
+AngularApp4.Server/*.userosscache
+AngularApp4.Server/*.sln.docstates
+
+# Rider
+AngularApp4.Server/.idea/
+
+# ASP.NET Scaffolding
+AngularApp4.Server/ScaffoldingReadMe.txt
+
+# DotNet
+AngularApp4.Server/project.lock.json
+AngularApp4.Server/project.fragment.lock.json
+AngularApp4.Server/artifacts/
+
+# StyleCop
+AngularApp4.Server/StyleCopReport.xml
+

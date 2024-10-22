@@ -1,0 +1,7 @@
+@AngularApp4.Server_HostAddress = http://localhost:5180
+
+
+GET {{AngularApp4.Server_HostAddress}}/clientes/
+Accept: application/json
+
+###
